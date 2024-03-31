@@ -1,0 +1,65 @@
+00:34:11.204 > [37m�start
+00:34:11.204 >  External Reset
+00:34:11.204 >  Brown out Reset
+00:34:11.204 >  Watchdog Reset
+00:34:11.204 > Marlin 2.0.9.7
+00:34:11.204 > echo: Last Updated: 2023-07-04 | Author: (none, default config)
+00:34:11.204 > echo: Compiled: Mar 30 2024
+00:34:11.204 > echo: Free Memory: 254708  PlannerBufferBytes: 1280
+00:34:11.204 > echo:; Linear Units:
+00:34:11.204 > echo:  G21 ; (mm)
+00:34:11.204 > echo:; Temperature Units:
+00:34:11.204 > echo:  M149 C ; Units in Celsius
+00:34:11.204 > echo:; Filament settings (Disabled):
+00:34:11.204 > echo:  M200 S0 D1.75
+00:34:11.204 > echo:; Steps per unit:
+00:34:11.204 > echo:  M92 X80.00 Y80.00 Z400.00 E93.00
+00:34:11.204 > echo:; Max feedrates (units/s):
+00:34:11.204 > echo:  M203 X300.00 Y300.00 Z5.00 E25.00
+00:34:11.204 > echo:; Max Acceleration (units/s2):
+00:34:11.204 > echo:  M201 X3000.00 Y3000.00 Z100.00 E10000.00
+00:34:11.204 > echo:; Acceleration (units/s2) (P<print-accel> R<retract-accel> T<travel-accel>):
+00:34:11.204 > echo:  M204 P3000.00 R3000.00 T3000.00
+00:34:11.204 > echo:; Advanced (B<min_segment_time_us> S<min_feedrate> T<min_travel_feedrate> J<junc_dev>):
+00:34:11.204 > echo:  M205 B20000.00 S0.00 T0.00 J0.01
+00:34:11.204 > echo:; Home offset:
+00:34:11.204 > echo:  M206 X0.00 Y0.00 Z0.00
+00:34:11.204 > echo:; Hotend PID:
+00:34:11.204 > echo:  M301 P22.20 I1.08 D114.00
+00:34:11.204 > echo:WiFi station started
+00:34:11.204 > echo:Connecting Airtel_yasw_6790
+00:34:11.204 > echo:Connecting.
+00:34:11.204 > echo:Connecting..
+00:34:11.204 > echo:Connected
+00:34:11.204 > echo:192.168.1.9
+00:34:11.204 > echo:OTA service started
+00:34:11.204 > echo:mDNS service (marlinesp) started
+00:34:11.204 > echo:SSDP service started
+00:34:11.204 > echo:HTTP server started
+00:34:11.204 > echo:192.168.1.9
+00:35:25.980 > [37me[37mcho:; [37mL[37minear Units:
+00:35:25.982 > echo:  G21 [37m;[37m (mm)
+00:35:25.983 > echo:; Temperature[37m [37mUnits:
+00:35:25.984 > echo:  M149 C ; U[37mn[37mits in Celsius
+00:35:25.985 > echo:; Fi[37ml[37mament settings (Disabled[37m)[37m:
+00:35:25.986 > echo:  M200 S0 D1.75
+00:35:25.986 > e[37mc[37mho:; Steps per unit:
+00:35:25.987 > ech[37mo[37m:  M92 X80.00 Y80.00 Z40[37m0[37m.00 E93.00
+00:35:25.989 > echo:; Max fe[37me[37mdrates (units/s):
+00:35:25.990 > echo: [37m [37mM203 X300.00 Y300.00 Z5.[37m0[37m0 E25.00
+00:35:25.992 > echo:; Max Acce[37ml[37meration (units/s2):
+00:35:25.993 > echo:[37m [37m M201 X3000.00 Y3000.00[37m [37mZ100.00 E10000.00
+00:35:25.995 > echo:;[37m [37mAcceleration (units/s2) [37m([37mP<print-accel> R<retract[37m-[37maccel> T<travel-accel>):[37m
+00:35:26.000 > [37mecho:  M204 P3000.00 R30[37m0[37m0.00 T3000.00
+00:35:26.001 > echo:; Adv[37ma[37mnced (B<min_segment_time[37m_[37mus> S<min_feedrate> T<mi[37mn[37m_travel_feedrate> J<junc[37m_[37mdev>):
+00:35:26.005 > echo:  M205 B2000[37m0[37m.00 S0.00 T0.00 J0.01
+00:35:26.006 > ec[37mh[37mo:; Home offset:
+00:35:26.007 > echo:  M[37m2[37m06 X0.00 Y0.00 Z0.00
+00:35:26.008 > ec[37mh[37mo:; Hotend PID:
+00:35:26.009 > echo:  M[37m3[37m01 P22.20 I1.08 D114.00
+00:35:26.011 > [37mo[37mk
+00:35:54.612 > [37mR[37me[37mp[37morting en[37md[37mstop status
+00:35:54.615 > x_min: open
+00:35:54.616 > [37my[37m_min: open
+00:35:54.616 > z_min: open
+00:35:54.616 > o[37mk[37m
